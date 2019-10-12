@@ -1,0 +1,1 @@
+print("Aleksander Gorazda Wiek: 20 lat")
