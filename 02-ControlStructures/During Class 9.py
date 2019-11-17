@@ -1,5 +1,0 @@
-x =1
-if x%2 ==0:
-    print('parzysta')
-else:
-    print('nie')
