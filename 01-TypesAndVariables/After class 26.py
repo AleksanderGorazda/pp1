@@ -1,5 +1,0 @@
-x=input("Podaj wzrost w cm: ")
-y=input("Podaj wagę w kg: ")
-x = int(x)
-y = int(y)
-print("xdd", y/((x/100) ** 2))
