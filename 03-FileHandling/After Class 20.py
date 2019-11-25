@@ -5,6 +5,6 @@ with open('numbers.txt','r') as file:
             tab.append(line)
         else:
             continue
-with open('evennumbers.txt','a+') as file:
+with open('evennumbers.txt','w') as file:
     for i in range(len(tab)):
         file.write(tab[i])
